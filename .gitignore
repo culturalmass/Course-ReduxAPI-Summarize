@@ -12,6 +12,14 @@ dist
 dist-ssr
 *.local
 *.env
+*.eslintrc.cjs
+*.gitignore
+package.json
+postcss.config.js
+tailwind.config.js
+vite.config.js
+yarn.lock
+
 
 # Editor directories and files
 .vscode/*
